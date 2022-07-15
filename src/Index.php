@@ -4,7 +4,7 @@ namespace mefalamin\HelloComposer;
 
 class Index
 {
-    public function greet($greet = "Hello Composer"): string
+    public function greet($greet = "Hello from Composer updated"): string
     {
         return $greet;
     }
